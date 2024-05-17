@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "image": "http://127.0.0.1:3000/images/1.webp",
+    "name": "후드티",
+    "price": 150000,
+    "info": "후드티"
+  },
+  {
+    "id": "2",
+    "image": "http://127.0.0.1:3000/images/2.webp",
+    "name": "후드티",
+    "price": 150000,
+    "info": "후드티"
+  },
+  {
+    "id": "3",
+    "image": "http://127.0.0.1:3000/images/3.webp",
+    "name": "원피스",
+    "price": 150000,
+    "info": "원피스"
+  },
+  {
+    "id": "4",
+    "image": "http://127.0.0.1:3000/images/4.webp",
+    "name": "반바지",
+    "price": 150000,
+    "info": "반바지"
+  },
+  {
+    "id": "5",
+    "image": "http://127.0.0.1:3000/images/5.webp",
+    "name": "티셔츠",
+    "price": 150000,
+    "info": "티셔츠"
+  },
+  {
+    "id": "6",
+    "image": "http://127.0.0.1:3000/images/6.webp",
+    "name": "스트레치 비스코스 드레스",
+    "price": 150000,
+    "info": "스트레치 비스코스 드레스 - 터들넥 - 자카드 스트라이프 디테일"
+  },
+  {
+    "id": "7",
+    "image": "http://127.0.0.1:3000/images/7.webp",
+    "name": "자켓",
+    "price": 150000,
+    "info": "자켓"
+  }
+]
